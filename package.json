@@ -1,0 +1,18 @@
+{
+  "name": "image-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that generates images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dall-e"
+  ],
+  "author": "Skander Zoghlami",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.3.4",
+    "discord.js": "^14.7.1"
+  }
+}
